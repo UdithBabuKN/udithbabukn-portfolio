@@ -80,6 +80,7 @@ const contentData = {
                 <div class="education-item">
                     <h3>MBA (Operation management and Marketing)</h3>
                     <div class="experience-date">College of Engineering Thalassery | 2022-2024</div>
+		    <p>Graduated with 7.29 CGPA (72.90%)</p>
                 </div>
 
                 <div class="education-item">
